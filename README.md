@@ -19,4 +19,8 @@ back side audio ports
 Try editing the slide number.
 on the efi its slide=10
 
+# Hey! Real? Gimme proof!
+Okay! It works well, with two monitors!
+![screenshot](https://github.com/bigsadan/surface-pro-4-hackintosh-10.14.3/blob/master/screenshot/mojave%2010143.jpg)
+
 # Questions? Plz post issue 
